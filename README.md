@@ -17,7 +17,5 @@
 
 <p>Autor:</p>
 
-<p align="center">
 | [<sub>Arthur Silveira</sub>](https://github.com/ArthurSilveira)
 | :---: |
-</p>
