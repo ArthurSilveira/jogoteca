@@ -1,25 +1,30 @@
 <h1 align="center"> JOGOTECA </h1>
 
-<p align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/16kWX3w/pngwing-com-1.png" alt="pngwing-com-1" border="0"></a>
-</p>
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-<p>Projeto de Web do IFMG Sabará, que tem a função de listar jogos por meio do Flask.</p><br></br>
+<div align="center">
 
-- `Funcionalidade 1`: `Cadastro do nome:`
-- `Funcionalidade 2`: `Cadastro de categoria:`
-- `Funcionalidade 2a`: `Cadastro de plataformas:`
+![mario](https://user-images.githubusercontent.com/108816113/182640837-3e2233e1-1a21-4667-b061-bf725d526082.jpg)
+
+</div>
+
+## :pencil: Descrição do projeto
+
+<p>Projeto de Web do IFMG Sabará, que tem a função de listar jogos por meio do Flask. O programa é capaz de cadastrar e listar em uma tabela diversos tipos de jogos, que estarão disponíveis em uma paágina web.</p><br>
+
+- `Funcionalidade 1`: `Cadastro do nome:` Nessa área do programa será possível adicionar o nome do jogo que deseja adicionar na tabela, junto dos outro jogos, por meio de um formulário tipo "post" do HTML5.
+- `Funcionalidade 2`: `Cadastro de categoria:`Nessa área do programa será possível adicionar a categoria do jogo que deseja adicionar na tabela (ex.: Aventura, Ação, RPG, FPS...), por meio de um formulário tipo "post" do HTML5.
+- `Funcionalidade 2a`: `Cadastro de plataformas:` Nessa área do programa será possível adicionar as plataformas que suportam o jogo que deseja adicionar na tabela, por meio de um formulário tipo "post" do HTML5.
+
+<h4> 
+    :warning:  Mais funcionalidades podem vir, pois o projeto ainda está em construção.
+</h4>
 
 ## :computer: Linguagens utilizadas
 
 - ``Python``
 - ``HTML``
-- ``Paradigma de orientação a objetos``
-
-<h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
-<br>
+- ``CSS``
 
 ## :grin: Autor
 
