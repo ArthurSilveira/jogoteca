@@ -37,7 +37,7 @@ def criar():
 # Esse código é para quando for rodar no Replit
 app.run(host='0.0.0.0', debug=True)
 
-# Esse código é para quando for rodar em sua máquina
+# Esse código é para quando for rodar na máquina
 # app.run(debug=True)
 
 app.run()
